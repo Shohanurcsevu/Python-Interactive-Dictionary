@@ -33,11 +33,7 @@ while True:
             i = 1
             for temp in output:
                 print(i,".",temp)
-                i=i+1
-                
-               
-                    
-                
+                i=i+1        
         else:
             print(output)
             
